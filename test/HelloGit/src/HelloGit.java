@@ -1,12 +1,12 @@
-
 public class HelloGit {
 
 	/**
-	 * Test for change in master.
+	 * After integration to master branch.
+	 * 
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello branch rde01.");
+		System.out.println("Hello master branch!");
 
 	}
 
